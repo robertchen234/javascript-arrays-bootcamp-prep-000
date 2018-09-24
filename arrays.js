@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
 
 function addElementToBeginningOfArray(chocolateBars, crunch) {
@@ -31,3 +32,8 @@ function addElementToBeginningOfArray(chocolateBars, crunch) {
  function accessElementInArray(chocolateBars, snickers) {
   return chocolateBars[2]
 }
+=======
+var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles']
+
+var addElementToBeginningOfArray(choclateBars, crunch)
+>>>>>>> 0866ded152c92651450c8cbe6d4ee80e28f59e69
